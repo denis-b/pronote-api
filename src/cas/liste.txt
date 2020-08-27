@@ -1,0 +1,1 @@
+["ac-besancon","ac-caen","ac-clermont","ac-grenoble","ac-lille","ac-lyon","ac-montpellier","ac-nancy-metz","ac-nantes","ac-orleans-tours","ac-reims","ac-rouen","ac-strasbourg","ac-toulouse","arsene76","aten","hdf","iledefrance","kdecole-wayf","none","seineetmarne","toutatice","viescolaire"]

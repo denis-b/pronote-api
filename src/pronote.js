@@ -1112,6 +1112,7 @@ async function navigate(session, id, name, data = {})
         donnees: data
     };
 
+    
     if (data.xml)
     {
         content['xml'] = data.xml;
